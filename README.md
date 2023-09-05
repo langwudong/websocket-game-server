@@ -36,9 +36,6 @@ ProjectName and Description
   </p>
 
 </p>
-
-
- 本篇README.md面向开发者
  
 ## 目录
 
@@ -130,12 +127,7 @@ filetree
 ### 鸣谢
 
 
-- [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-- [Img Shields](https://shields.io)
-- [Choose an Open Source License](https://choosealicense.com)
-- [GitHub Pages](https://pages.github.com)
-- [Animate.css](https://daneden.github.io/animate.css)
-- [xxxxxxxxxxxxxx](https://connoratherton.com/loaders)
+暂无
 
 <!-- links -->
 [your-project-path]:shaojintian/Best_README_template
