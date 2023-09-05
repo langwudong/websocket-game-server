@@ -40,6 +40,7 @@
 ## 目录
 
 - [上手指南](#上手指南)
+  - [安装](#安装)
 - [文件目录说明](#文件目录说明)
 - [开发的架构](#开发的架构)
 - [部署](#部署)
@@ -54,12 +55,12 @@
 
 你只需要在你的设备上配置**GO语言环境**，以及将项目中的数据库信息替换为你自己的**数据库信息**即可运行。
 
-####安装
+#### 安装
 
 克隆本仓库
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
+```sh
+git clone https://github.com/your_username_/Project-Name.git
+```
 
 ### 文件目录说明
 eg:
