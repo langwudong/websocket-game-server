@@ -21,7 +21,7 @@
     <img src="images/img.jpg" alt="img" width="120" height="120">
   </a>
 
-  <h3 align="center">"完美的"README模板</h3>
+  <h3 align="center">GO语言搭建多人游戏服务器</h3>
   <p align="center">
     一个"完美的"README模板去快速开始你的项目！
     <br />
