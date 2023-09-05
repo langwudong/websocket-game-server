@@ -24,7 +24,6 @@
   <h3 align="center">GO语言搭建多人游戏服务器</h3>
   <p align="center">
     欢迎测试、学习以及交流
-    <br />
     <a href="https://github.com/zk63265742/game-server"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
