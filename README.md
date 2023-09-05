@@ -18,7 +18,7 @@ ProjectName and Description
 
 <p align="center">
   <a href="https://github.com/zk63265742/game-server/">
-    <img src="images/img.jpg" alt="Logo" width="80" height="80">
+    <img src="images/img.jpg" alt="img" width="120" height="120">
   </a>
 
   <h3 align="center">"完美的"README模板</h3>
