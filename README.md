@@ -64,21 +64,19 @@ eg:
 
 ```
 filetree 
-├── ARCHITECTURE.md
-├── LICENSE.txt
-├── README.md
-├── /account/
-├── /bbs/
-├── /docs/
-│  ├── /rules/
-│  │  ├── backend.txt
-│  │  └── frontend.txt
-├── manage.py
-├── /oa/
-├── /static/
-├── /templates/
-├── useless.md
-└── /util/
+├─.idea
+├─bin
+├─images
+├─pkg
+└─src
+    ├─logrus
+    ├─logs
+    ├─main
+    ├─message
+    ├─mysql
+    ├─room
+    ├─upgrader
+    └─user
 
 ```
 
