@@ -43,8 +43,6 @@ ProjectName and Description
 ## 目录
 
 - [上手指南](#上手指南)
-  - [开发前的配置要求](#开发前的配置要求)
-  - [安装步骤](#安装步骤)
 - [文件目录说明](#文件目录说明)
 - [开发的架构](#开发的架构)
 - [部署](#部署)
@@ -57,7 +55,7 @@ ProjectName and Description
 
 ### 上手指南
 
-请将所有链接中的“shaojintian/Best_README_template”改为“your_github_name/your_repository”
+你只需要在你的设备上配置GO语言环境以及将项目中的数据库信息替换为你自己的数据库信息即可运行。
 
 ### 文件目录说明
 eg:
