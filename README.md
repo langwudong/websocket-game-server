@@ -131,15 +131,15 @@ filetree
 
 <!-- links -->
 [your-project-path]:zk63265742/game-server
-[contributors-shield]: https://img.shields.io/github/contributors/shaojintian/Best_README_template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/zk63265742/game-server.svg?style=flat-square
 [contributors-url]: https://github.com/zk63265742/game-server/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/shaojintian/Best_README_template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/zk63265742/game-server.svg?style=flat-square
 [forks-url]: https://github.com/zk63265742/game-server/network/members
-[stars-shield]: https://img.shields.io/github/stars/shaojintian/Best_README_template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/zk63265742/game-server.svg?style=flat-square
 [stars-url]: https://github.com/zk63265742/game-server/stargazers
-[issues-shield]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/shaojintian/Best_README_template.svg
+[issues-shield]: https://img.shields.io/github/issues/zk63265742/game-server.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/zk63265742/game-server.svg
 [license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
 [license-url]: https://github.com/zk63265742/game-server/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/shaojintian
+[linkedin-url]: https://linkedin.com/in/zk63265742
