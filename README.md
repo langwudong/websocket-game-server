@@ -2,7 +2,7 @@
 
 # GO语言搭建多人游戏服务器
 
-ProjectName and Description
+本项目是基于WebSocket协议开发的多人游戏服务器，适用于多人实时游戏等。
 
 <!-- PROJECT SHIELDS -->
 
