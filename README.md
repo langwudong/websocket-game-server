@@ -59,7 +59,7 @@
 
 克隆本仓库
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/zk63265742/game-server.git
 ```
 
 ### 文件目录说明
