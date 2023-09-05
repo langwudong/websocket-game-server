@@ -92,7 +92,7 @@ filetree
 
 ### 使用到的框架
 
-- [gin](https://getbootstrap.com)
+- [gin](https://github.com/gin-gonic/gin)
 
 ### 贡献者
 
@@ -125,7 +125,7 @@ filetree
 
 ### 版权说明
 
-该项目签署了MIT 授权许可，详情请参阅 [LICENSE.txt](https://github.com/shaojintian/Best_README_template/blob/master/LICENSE.txt)
+该项目由个人原创，你可以随意进行下载、测试以及二次开发。
 
 ### 鸣谢
 
