@@ -59,22 +59,6 @@ ProjectName and Description
 
 请将所有链接中的“shaojintian/Best_README_template”改为“your_github_name/your_repository”
 
-
-
-###### 开发前的配置要求
-
-1. xxxxx x.x.x
-2. xxxxx x.x.x
-
-###### **安装步骤**
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-
-```sh
-git clone https://github.com/shaojintian/Best_README_template.git
-```
-
 ### 文件目录说明
 eg:
 
@@ -104,7 +88,7 @@ filetree
 
 ### 开发的架构 
 
-请阅读[ARCHITECTURE.md](https://github.com/shaojintian/Best_README_template/blob/master/ARCHITECTURE.md) 查阅为该项目的架构。
+暂无
 
 ### 部署
 
@@ -112,13 +96,11 @@ filetree
 
 ### 使用到的框架
 
-- [xxxxxxx](https://getbootstrap.com)
-- [xxxxxxx](https://jquery.com)
-- [xxxxxxx](https://laravel.com)
+- [gin](https://getbootstrap.com)
 
 ### 贡献者
 
-请阅读**CONTRIBUTING.md** 查阅为该项目做出贡献的开发者。
+- [朗 吾 東](https://github.com/zk63265742)
 
 #### 如何参与开源项目
 
