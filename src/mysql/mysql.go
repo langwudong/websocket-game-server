@@ -5,50 +5,86 @@ import (
 	"game-server/src/user"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/sirupsen/logrus"
+	"sync"
 )
 
-type DbWorker struct {
-	dsn  string
+var (
 	db   *sql.DB
-	user user.User
-}
+	once sync.Once
+)
 
-func InitDB(url string) DbWorker {
-	dbw := DbWorker{
-		dsn: url,
-	}
+const (
+	url = "root:langwudong@tcp(127.0.0.1:3306)/sunnyland"
+)
 
-	dbw.db, _ = sql.Open("mysql", dbw.dsn)
+func InitDB() *sql.DB {
+	once.Do(func() {
+		db, _ = sql.Open("mysql", url)
 
-	//连接数据库
-	err := dbw.db.Ping()
+		//连接数据库
+		err := db.Ping()
 
-	if err != nil {
-		logrus.Error("The database connection failed.")
-	}
+		if err != nil {
+			logrus.Error(err)
+		}
 
-	//设置数据库连接池的最大连接数目
-	dbw.db.SetMaxOpenConns(20)
+		//设置数据库连接池的最大连接数目
+		db.SetMaxOpenConns(100)
+	})
 
-	return dbw
+	return db
 }
 
 func CheckUser(user user.User) bool {
-	dbw := InitDB("root:zk000000@tcp(127.0.0.1:3306)/sunny_land")
+	dbw := InitDB()
 
-	stmt, _ := dbw.db.Prepare("SELECT * FROM user WHERE username = ? AND password = ?")
+	stmt, _ := dbw.Prepare("SELECT * FROM user WHERE username = ? AND password = ?")
+
 	defer stmt.Close()
 
 	rows, err := stmt.Query(user.Username, user.Password)
 	defer rows.Close()
 
 	if err != nil {
-		logrus.Error("This query failed.")
+		logrus.Error(err)
 	}
 
-	if rows != nil {
+	return rows.Next()
+}
+
+func AddUser(user user.User) {
+	dbw := InitDB()
+
+	stmt, err := dbw.Prepare("INSERT INTO user (username,password) VALUES (?,?)")
+
+	defer stmt.Close()
+
+	_, err = stmt.Exec(user.Username, user.Password)
+
+	if err != nil {
+		logrus.Error(err)
+	}
+}
+
+func UpdateUser(user user.User, newPassword string) bool {
+	dbw := InitDB()
+
+	stmt, err := dbw.Prepare("UPDATE user SET password=? WHERE username=? AND password=?")
+
+	defer stmt.Close()
+
+	result, err := stmt.Exec(newPassword, user.Username, user.Password)
+
+	if err != nil {
+		logrus.Error(err)
+		return false
+	}
+
+	rowsAffected, _ := result.RowsAffected()
+
+	if rowsAffected == 0 {
+		return false
+	} else {
 		return true
 	}
-
-	return false
 }
