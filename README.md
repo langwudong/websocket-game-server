@@ -17,7 +17,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/zk63265742/game-server/">
+  <a href="https://github.com/yourlings/game-server/">
     <img src="images/img.jpg" alt="img" width="120" height="120">
   </a>
 
@@ -25,14 +25,14 @@
   <p align="center">
     欢迎测试、学习以及交流
     <br />
-    <a href="https://github.com/zk63265742/game-server"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/yourlings/game-server"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/zk63265742/game-server">查看Demo</a>
+    <a href="https://github.com/yourlings/game-server">查看Demo</a>
     ·
-    <a href="https://github.com/zk63265742/game-server/issues">报告Bug</a>
+    <a href="https://github.com/yourlings/game-server/issues">报告Bug</a>
     ·
-    <a href="https://github.com/zk63265742/game-server/issues">提出新特性</a>
+    <a href="https://github.com/yourlings/game-server/issues">提出新特性</a>
   </p>
 
 </p>
@@ -59,7 +59,7 @@
 
 克隆本仓库
 ```sh
-git clone https://github.com/zk63265742/game-server.git
+git clone https://github.com/yourlings/game-server.git
 ```
 
 ### 文件目录说明
@@ -140,16 +140,16 @@ filetree
 暂无
 
 <!-- links -->
-[your-project-path]:zk63265742/game-server
-[contributors-shield]: https://img.shields.io/github/contributors/zk63265742/game-server.svg?style=flat-square
-[contributors-url]: https://github.com/zk63265742/game-server/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/zk63265742/game-server.svg?style=flat-square
-[forks-url]: https://github.com/zk63265742/game-server/network/members
-[stars-shield]: https://img.shields.io/github/stars/zk63265742/game-server.svg?style=flat-square
-[stars-url]: https://github.com/zk63265742/game-server/stargazers
-[issues-shield]: https://img.shields.io/github/issues/zk63265742/game-server.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/zk63265742/game-server.svg
+[your-project-path]:yourlings/game-server
+[contributors-shield]: https://img.shields.io/github/contributors/yourlings/game-server.svg?style=flat-square
+[contributors-url]: https://github.com/yourlings/game-server/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/yourlings/game-server.svg?style=flat-square
+[forks-url]: https://github.com/yourlings/game-server/network/members
+[stars-shield]: https://img.shields.io/github/stars/yourlings/game-server.svg?style=flat-square
+[stars-url]: https://github.com/yourlings/game-server/stargazers
+[issues-shield]: https://img.shields.io/github/issues/yourlings/game-server.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/yourlings/game-server.svg
 [license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
-[license-url]: https://github.com/zk63265742/game-server/blob/master/LICENSE.txt
+[license-url]: https://github.com/yourlings/game-server/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/zk63265742
+[linkedin-url]: https://linkedin.com/in/yourlings
