@@ -17,7 +17,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/yourlings/game-server/">
+  <a href="https://github.com/langwudong/game-server/">
     <img src="images/img.jpg" alt="img" width="120" height="120">
   </a>
 
@@ -25,14 +25,14 @@
   <p align="center">
     欢迎测试、学习以及交流
     <br />
-    <a href="https://github.com/yourlings/game-server"><strong>探索本项目的文档 »</strong></a>
+    <a href="https://github.com/langwudong/game-server"><strong>探索本项目的文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/yourlings/game-server">查看Demo</a>
+    <a href="https://github.com/langwudong/game-server">查看Demo</a>
     ·
-    <a href="https://github.com/yourlings/game-server/issues">报告Bug</a>
+    <a href="https://github.com/langwudong/game-server/issues">报告Bug</a>
     ·
-    <a href="https://github.com/yourlings/game-server/issues">提出新特性</a>
+    <a href="https://github.com/langwudong/game-server/issues">提出新特性</a>
   </p>
 
 </p>
@@ -59,7 +59,7 @@
 
 克隆本仓库
 ```sh
-git clone https://github.com/yourlings/game-server.git
+git clone https://github.com/langwudong/game-server.git
 ```
 
 ### 文件目录说明
@@ -101,7 +101,7 @@ filetree
 
 ### 贡献者
 
-- [朗 吾 東](https://github.com/zk63265742)
+- [朗 吾 東](https://github.com/langwudong)
 
 #### 如何参与开源项目
 
@@ -122,7 +122,7 @@ filetree
 
 ### 作者
 
-63265742@qq.com
+langwudong@yeah.net
 
 B站: [Nancy朗吾東](https://space.bilibili.com/456674958?spm_id_from=333.1007.0.0)
 
@@ -142,16 +142,16 @@ B站: [Nancy朗吾東](https://space.bilibili.com/456674958?spm_id_from=333.1007
 暂无
 
 <!-- links -->
-[your-project-path]:yourlings/game-server
-[contributors-shield]: https://img.shields.io/github/contributors/yourlings/game-server.svg?style=flat-square
-[contributors-url]: https://github.com/yourlings/game-server/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/yourlings/game-server.svg?style=flat-square
-[forks-url]: https://github.com/yourlings/game-server/network/members
-[stars-shield]: https://img.shields.io/github/stars/yourlings/game-server.svg?style=flat-square
-[stars-url]: https://github.com/yourlings/game-server/stargazers
-[issues-shield]: https://img.shields.io/github/issues/yourlings/game-server.svg?style=flat-square
-[issues-url]: https://img.shields.io/github/issues/yourlings/game-server.svg
+[your-project-path]:langwudong/game-server
+[contributors-shield]: https://img.shields.io/github/contributors/langwudong/game-server.svg?style=flat-square
+[contributors-url]: https://github.com/langwudong/game-server/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/langwudong/game-server.svg?style=flat-square
+[forks-url]: https://github.com/langwudong/game-server/network/members
+[stars-shield]: https://img.shields.io/github/stars/langwudong/game-server.svg?style=flat-square
+[stars-url]: https://github.com/langwudong/game-server/stargazers
+[issues-shield]: https://img.shields.io/github/issues/langwudong/game-server.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/langwudong/game-server.svg
 [license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
-[license-url]: https://github.com/yourlings/game-server/blob/master/LICENSE.txt
+[license-url]: https://github.com/langwudong/game-server/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/yourlings
+[linkedin-url]: https://linkedin.com/in/langwudong
