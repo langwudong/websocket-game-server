@@ -59,7 +59,7 @@
 
 克隆本仓库
 ```sh
-git clone https://github.com/langwudong/game-server.git
+git clone https://github.com/langwudong/websocket-game-server.git
 ```
 
 ### 文件目录说明
