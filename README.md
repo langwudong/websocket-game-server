@@ -17,8 +17,8 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/langwudong/game-server/">
-    <img src="images/img.jpg" alt="img" width="120" height="120">
+  <a href="https://github.com/langwudong/openai/">
+    <img src="logo.png" alt="img" width="120" height="120">
   </a>
 
   <h3 align="center">GO语言搭建多人游戏服务器</h3>
