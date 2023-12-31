@@ -17,7 +17,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/langwudong/openai/">
+  <a href="https://github.com/langwudong/websocket-game-server/">
     <img src="logo.png" alt="img" width="120" height="120">
   </a>
 
